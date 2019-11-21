@@ -2,7 +2,7 @@
 Nesneye Yönelik Programlama - Dönem Projesi (2017-2018)
 ---
 
-# Bu proje için hazırladığım video eğitim serisine bu linkten ulaşabilirsiniz;
+### Bu proje için hazırladığım video eğitim serisine bu linkten ulaşabilirsiniz;
 
 https://www.youtube.com/playlist?list=PLD5mxe_TPJBGP9c100rM0DNY6KtKkWgbp
 
