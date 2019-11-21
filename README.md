@@ -2,6 +2,11 @@
 Nesneye Yönelik Programlama - Dönem Projesi (2017-2018)
 ---
 
+# Bu proje için hazırladığım video eğitim serisine bu linkten ulaşabilirsiniz;
+
+https://www.youtube.com/playlist?list=PLD5mxe_TPJBGP9c100rM0DNY6KtKkWgbp
+
+
                                 - Kullanılan Araçlar ve Teknolojiler -
 
 Microsoft Visual Studio: Yazılım geliştirme aracı (IDE) olarak Microsoft Visual Studio kullanılmıştır.
@@ -34,6 +39,3 @@ IRaporOzellikleri: Rapor sınıfını kullanan sınıfların rapor listeleri olu
 BireyselMusteri: Programda Bireysel Müşterileri temsil eden sınıftır. Musteri sınıfından türetilmiştir.
 
 TicariMusteri: Programda Ticari Müşterileri temsil eden sınıftır. Musteri sınıfından türetilmiştir.
-
-#Bu proje için hazırladığım video eğitim serisine bu linkten ulaşabilirsiniz;
-https://www.youtube.com/playlist?list=PLD5mxe_TPJBGP9c100rM0DNY6KtKkWgbp
