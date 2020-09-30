@@ -41,7 +41,7 @@ BireyselMusteri: Programda Bireysel Müşterileri temsil eden sınıftır. Muste
 
 TicariMusteri: Programda Ticari Müşterileri temsil eden sınıftır. Musteri sınıfından türetilmiştir.
 
-# UML 
+## UML Diyagramı
 
 
 ![](https://i.hizliresim.com/Vgf4ig.png)
