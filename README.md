@@ -41,5 +41,4 @@ BireyselMusteri: Programda Bireysel Müşterileri temsil eden sınıftır. Muste
 
 TicariMusteri: Programda Ticari Müşterileri temsil eden sınıftır. Musteri sınıfından türetilmiştir.
 
-![](https://resimyukle.xyz/i/A7z1NK)
-[url=https://hizliresim.com/Vgf4ig][img]https://i.hizliresim.com/Vgf4ig.png[/img][/url]
+![](https://i.hizliresim.com/Vgf4ig.png)
