@@ -40,3 +40,5 @@ IRaporOzellikleri: Rapor sınıfını kullanan sınıfların rapor listeleri olu
 BireyselMusteri: Programda Bireysel Müşterileri temsil eden sınıftır. Musteri sınıfından türetilmiştir.
 
 TicariMusteri: Programda Ticari Müşterileri temsil eden sınıftır. Musteri sınıfından türetilmiştir.
+
+![alt text](https://hizliresim.com/Vgf4ig)
